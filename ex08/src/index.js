@@ -9,5 +9,6 @@ class Person {
       return personInfo;
     }
   }
-  
+  var person = new Person();
+
   module.exports = Person;
